@@ -13,9 +13,6 @@ categories = [
 menu = "main"
 +++
 
-#### Update - 6th September
-Project has been evaluated and approved by mentor resulting in successful GSoC completion. Extremely thankful and appreciative of [Juan Leyva](https://twitter.com/jleyvadelgado) for the support and mentorship over last 4-5 months and entire Moodle Mobile team for regular feedback and Google for sponsoring this amazing collaboration.
-
 Google Summer of Code 2017 Development Period is about to conclude in next few days. Final phase has started on 28th July and ends on 21st August,  approximately 3 weeks, and Student Work Product Submissions are due by 29th August.
 
 ### E2E Documentation
@@ -53,3 +50,6 @@ New TestSuites are added to test remaining/new functionalities. Exisitng testSui
 * [Earlier blogpost: GSoC’17 Journal: Phase 1]({{< relref "2017-06-28-gsoc-moodle-phase-1.md" >}})
 * [Earlier blogpost: GSoC’17 Journal: Community Bonding Period]({{< relref "2017-05-24-gsoc-moodle-community-bonding.md" >}})
 * [Earlier blogpost: GSoC'17 Journal: Moodle Mobile - Project Proposal]({{< relref "2017-05-12-gsoc-moodle-intro.md" >}})
+
+#### Update - 6th September
+Project has been evaluated and approved by mentor resulting in successful GSoC completion. Extremely thankful and appreciative of [Juan Leyva](https://twitter.com/jleyvadelgado) for the support and mentorship over last 4-5 months and entire Moodle Mobile team for regular feedback and Google for sponsoring this amazing collaboration.
