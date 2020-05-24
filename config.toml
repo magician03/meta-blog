@@ -6,7 +6,7 @@ DefaultContentLanguage = "en"
 
 [author]
   name = "Diwakar Moturu"
-  homepage = "https://joway.io/"
+  homepage = "https://diwakar.dev/"
 
 [languages]
   [languages.en]
@@ -25,4 +25,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "About"
-link = "https://joway.io"
+link = "https://diwakar.dev"
