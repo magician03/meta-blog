@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/magician03/personal-blog.git
+	branch = master
